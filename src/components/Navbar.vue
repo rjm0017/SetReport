@@ -40,9 +40,6 @@ $divider-color: #bdbdbd;
   .nav-icon {
     margin: 0.5rem;
     color: $accent-color;
-    :hover {
-      color: $divider-color;
-    }
   }
   .mr-name {
     margin: 0.5em;

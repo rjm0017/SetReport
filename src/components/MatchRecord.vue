@@ -156,6 +156,7 @@ export default {
         games: this.setType
       };
 
+      console.log(to_send);
       this.displayResults(to_send);
     },
     displayResults(object) {
